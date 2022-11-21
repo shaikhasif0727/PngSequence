@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PngSequenceExample</string>
+    <string name="sequence_teenpatti">teenpattiicon/teenpatti</string>
+    <string name="sequence_animal">animal_roulette/animal_roulette</string>
+</resources>
